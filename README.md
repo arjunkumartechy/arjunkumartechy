@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arjunkumartechy
 - 👀 I’m interested in Programming and solving real-world problems using Tecnology , especially using AI . 
-- 🌱 I’m currently learning DATA STRUCTURE AND ALGORITHM IN C++ AND WEB DEV through online resources and practing using leetcode . 
+- 🌱 I’m currently learning DATA STRUCTURE AND ALGORITHM AND WEB DEV through online resources and practicing using leetcode . 
 - 💞️ I’m looking to collaborate on BASIC PORJECTS THAT ARE ABSOlUTE BIGINNER FRIENDLY . 
 - 📫 How to reach me  ? --> You can reach out to me through my email address and social handles  . 
 - 😄 Pronouns: ...
